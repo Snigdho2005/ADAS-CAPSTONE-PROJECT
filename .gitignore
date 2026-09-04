@@ -1,0 +1,28 @@
+# Python / Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Datasets
+data/
+
+# Model Checkpoints & Large Weights
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# Heavy Video Files & Outputs
+*.mov
+*.mp4
+*.avi
+runs/
+output_annotated.mp4
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+ADAS-CAPSTONE-/
