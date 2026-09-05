@@ -1,2 +1,2 @@
 # ADAS-CAPSTONE
-capstone project
+Capstone Project
